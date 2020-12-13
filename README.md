@@ -1,2 +1,2 @@
 # IBMDataScience-project-
-Projects by IBM professional certificate in Data Science
+Project work on IBM professional certificate in Data Science
